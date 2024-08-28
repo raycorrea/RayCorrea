@@ -1,6 +1,6 @@
 ## Olá eu sou Rayan Correa, Desenvolvedor e Programador!
 
-![Snake animation](https://github.com/RayCorrea/RayCorrea/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/RayCorrea/RayCorrea/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <a href="https://github.com/RayCorrea">
