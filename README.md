@@ -40,11 +40,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://www.linkedin.com/in/rayan-correa-4930931b3/" width="70" height="30" alt="linkedin logo"  />
-  <img src="https://discord.com/channels/760350039293558825/760350039293558829" width="70" height="30" alt="discord logo"  />
-  <img src="https://mail.google.com/mail/u/0/#inbox" width="70" height="30" alt="gmail logo"  />
-</div>
-
-###
